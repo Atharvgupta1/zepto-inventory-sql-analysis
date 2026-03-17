@@ -1,2 +1,2 @@
-📊 Retail Inventory &amp; Pricing Analysis using SQL
+# 📊 Retail Inventory &amp; Pricing Analysis using SQL
 
