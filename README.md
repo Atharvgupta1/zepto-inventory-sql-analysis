@@ -35,4 +35,4 @@ Includes product pricing, discounts, stock, and category information
 
 ## 🛠️ Tools Used
 
-SQL (PostgreSQL)
+SQL
