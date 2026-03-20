@@ -1,38 +1,92 @@
- # 📊 Retail Inventory &amp; Pricing Analysis using SQL
-SQL project analysing retail pricing, discounts, and inventory data to identify inefficiencies and generate business insights
+# 📊 Retail Inventory & Pricing Optimization Analysis
 
-## 📌 Overview
+## 🚀 Overview
+This project analyses retail product data to identify inefficiencies in pricing and inventory management. The goal is to uncover actionable insights that can improve profitability, optimise stock levels, and enhance pricing strategies.
 
-This project focuses on analysing retail inventory data to understand pricing patterns, discount strategies, and stock levels. Using SQL, the dataset was explored, cleaned, and analysed to identify issues such as overpriced products, ineffective discounts, and inventory risks, including overstock and stockouts.
+---
 
-The analysis also includes category-level insights to compare pricing and discounting behaviour across product groups. The goal of the project is to demonstrate how SQL can be used to extract meaningful business insights from retail data and support better decision-making.
+## 🎯 Business Objective
+Retail businesses often struggle with:
+- Excess inventory (dead stock)
+- Stockouts of high-demand products
+- Inefficient discount strategies
 
-## 📂 Dataset
+This project aims to:
+- Identify dead inventory and stock risks
+- Evaluate pricing and discount patterns
+- Optimise inventory and pricing decisions
 
-Source: Kaggle (Zepto Inventory Dataset)
+---
 
-Includes product pricing, discounts, stock, and category information
+## 📂 Dataset Summary
+- Total Records: **3,732**
+- Unique Products: **1,681**
+- Domain: **FMCG / Retail**
 
-## ⚙️ Approach
+### Key Features:
+- Product Name & Category  
+- MRP (Maximum Retail Price)  
+- Discount Percentage  
+- Selling Price  
+- Available Quantity  
+- Product Weight  
+- Stock Availability  
 
-- Data Exploration (nulls, duplicates, categories)
+---
 
-- Data Cleaning (removed invalid prices, standardised values)
+## 🛠️ Tools & Technologies
+- **SQL** → Data cleaning & business analysis  
+- **Power BI** → Dashboard (planned)  
+- **Excel / CSV** → Dataset  
 
-- Feature Engineering (price per gram, profit estimation)
+---
 
-- Business Analysis (pricing trends, inventory risks, category insights)
+## 🔍 Key Metrics
+- 💰 Total Inventory Value: **Rs. 12.22 Cr**
+- 📊 Average Selling Price: **Rs. 141.9**
+- 📉 Average Discount: **7.6%**
+- 📦 Dead Inventory Products: **1,433**
+- ⚠️ Stockout Risk Products: **418**
+
+---
 
 ## 📊 Key Insights
 
-- High discounts do not always mean better value
+### 🔴 Dead Inventory Problem
+- ~38% of products have high stock but low discounts  
+- Indicates poor inventory movement  
 
-- Some high-priced products have low discounts
+### ⚠️ Stockout Risk
+- ~11% of products are low in stock but still active  
+- Leads to missed revenue opportunities  
 
-- Overstock and stockout risks exist in inventory
+### 💰 Weak Discount Strategy
+- Average discount is only 7.6%  
+- Many products fall in 0–5% range → low competitiveness  
 
-- Pricing and discount strategies vary by category
+### 📦 Inventory Concentration
+- High inventory value concentrated in a few categories  
+- Business risk due to lack of diversification  
 
-## 🛠️ Tools Used
+### 🧠 Pricing Inefficiency
+- Large variation in pricing without structured tiers  
+- Indicates a lack of a pricing strategy  
 
-SQL
+---
+
+## 💡 Business Recommendations
+
+- Increase discounts (15–25%) for slow-moving products  
+- Improve demand forecasting & stock replenishment  
+- Implement tiered pricing (Budget / Mid / Premium)  
+- Apply dynamic discounting based on demand  
+- Diversify category-level inventory investment  
+
+---
+
+## 📌 Conclusion
+The business is not facing a lack of products, but a lack of optimisation.
+By improving pricing strategy, inventory allocation, and discount logic, the company can:
+- Increase revenue  
+- Reduce dead stock  
+- Improve inventory turnover  
