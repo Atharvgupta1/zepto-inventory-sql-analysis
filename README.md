@@ -61,7 +61,7 @@ The dataset used in this project is sourced from Kaggle.
 - Inventory Value distribution across categories
 - Price vs Stock analysis using a scatter plot
   
-  **Identification of:**
+  ***Identification of:-***
   
 - Dead Inventory (High stock, low discount)
 - Stockout Risks (Low stock products)
