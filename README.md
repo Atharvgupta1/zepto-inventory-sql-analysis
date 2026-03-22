@@ -41,8 +41,7 @@ This project aims to:
 
 ---
 
-📊 Power BI Dashboard
-🖼️ Dashboard Preview
+## 🖼️ Dashboard Preview
 ![image alt](https://github.com/Atharvgupta1/zepto-inventory-sql-analysis/blob/150899048790cf9c63e23cfe51277bfc6ecf2329/Dashboard%20Screenshot.png)
 
 ---
