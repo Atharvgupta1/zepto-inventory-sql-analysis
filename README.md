@@ -36,7 +36,7 @@ This project aims to:
 
 ## 🛠️ Tools & Technologies
 - **SQL** → Data cleaning & business analysis  
-- **Power BI** → Dashboard (planned)  
+- **Power BI** → Dashboard  
 - **Excel / CSV** → Dataset  
 
 ---
