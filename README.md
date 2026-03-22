@@ -20,13 +20,14 @@ This project aims to:
 
 ## [📥 Data Source
 
+## 📥 Data Source
+
 The dataset used in this project is sourced from Kaggle.
 
-* Source: Kaggle — *Zepto Inventory Dataset*
-* Format: CSV
+* Source: [Kaggle – Zepto Inventory Dataset](https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-dataset?utm_source=chatgpt.com)
+* Author: Palvinder Singh
+* Format: CSV / XLSX
   
-This dataset is used for analytical and educational purposes to simulate real-world retail inventory and pricing scenarios.](https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-dataset)
-
 ---
 
 ## 📂 Dataset Summary
