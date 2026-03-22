@@ -56,13 +56,13 @@ The dataset used in this project is sourced from Kaggle.
 
 ---
 
-🎯 Dashboard Highlights
-Interactive Category-level filtering
-Inventory Value distribution across categories
-Price vs Stock analysis using a scatter plot
-Identification of:
-Dead Inventory (High stock, low discount)
-Stockout Risks (Low stock products)
+## 🎯 Dashboard Highlights
+- Interactive Category-level filtering
+- Inventory Value distribution across categories
+- Price vs Stock analysis using a scatter plot
+- Identification of:
+- Dead Inventory (High stock, low discount)
+- Stockout Risks (Low stock products)
 
 ---
 
