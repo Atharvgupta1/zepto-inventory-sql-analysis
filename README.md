@@ -18,15 +18,14 @@ This project aims to:
 
 ---
 
-## 📥 Data Source
+## [📥 Data Source
 
 The dataset used in this project is sourced from Kaggle.
 
 * Source: Kaggle — *Zepto Inventory Dataset*
 * Format: CSV
-* Contains product-level data, including pricing, discounts, inventory, and category information
-
-This dataset is used for analytical and educational purposes to simulate real-world retail inventory and pricing scenarios.
+  
+This dataset is used for analytical and educational purposes to simulate real-world retail inventory and pricing scenarios.](https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-dataset)
 
 ---
 
